@@ -2,7 +2,7 @@
   "author": "Bamdad Sabbagh",
   "license": "Apache-2.0",
   "name": "@bamdadsabbagh/eslint-config",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Bamdad Sabbagh's ESLint config",
   "keywords": [
     "bamdadsabbagh",
