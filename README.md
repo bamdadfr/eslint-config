@@ -1,6 +1,12 @@
 # eslint-config-bamdadsabbagh
 
+## Vendor
+
 > [ESLint](https://eslint.org) config.
+
+## npm
+
+> [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint-config) package.
 
 ## Installation
 
