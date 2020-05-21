@@ -32,6 +32,7 @@ module.exports = {
         // .tsx rules
         "react/jsx-filename-extension": [1, { "extensions": [".jsx", ".tsx"] }],
         "import/extensions": "off",
+        "@typescript-eslint/indent": ["error"],
         // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
