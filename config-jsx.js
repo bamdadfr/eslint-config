@@ -2,7 +2,12 @@
 
 module.exports = {
     "extends": [
-        "./config-js.js"
+        "./config-js.js",
+        "eslint:recommended",
+        "airbnb",
+        "plugin:jsx-a11y/recommended",
+        "prettier",
+        "prettier/react",
     ],
     "parserOptions": {
         "ecmaVersion": 6,
@@ -11,13 +16,6 @@ module.exports = {
             "jsx": true
         }
     },
-    "extends": [
-        "eslint:recommended",
-        "airbnb",
-        "plugin:jsx-a11y/recommended",
-        "prettier",
-        "prettier/react"
-    ],
     "plugins": [
         "jsx-a11y",
         "prettier"
