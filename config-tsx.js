@@ -34,6 +34,7 @@ module.exports = {
         "import/extensions": "off",
         "@typescript-eslint/indent": ["error"],
         "@typescript-eslint/type-annotation-spacing": ["error", { "before": false, "after": true }],
+        "@typescript-eslint/no-unused-vars": "error",
         // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
