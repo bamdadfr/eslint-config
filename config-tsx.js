@@ -33,6 +33,7 @@ module.exports = {
         "react/jsx-filename-extension": [1, { "extensions": [".jsx", ".tsx"] }],
         "import/extensions": "off",
         "@typescript-eslint/indent": ["error"],
+        "@typescript-eslint/type-annotation-spacing": ["error", { "before": false, "after": true }],
         // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
