@@ -23,6 +23,7 @@ module.exports = {
         "prettier"
     ],
     "rules": {
+        // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
         // .js rules
@@ -123,4 +124,4 @@ module.exports = {
         "consistent-return": "off",
         "no-await-in-loop": "off"
     }
-  }
+}
