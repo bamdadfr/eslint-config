@@ -1,10 +1,10 @@
 # eslint-config-bamdadsabbagh
 
-## Vendor
+## Vendor
 
 > [ESLint](https://eslint.org) config.
 
-## npm
+## npm
 
 > [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint-config) package.
 
