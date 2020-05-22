@@ -18,7 +18,7 @@ yarn add --dev @bamdadsabbagh/eslint-config
 
 ```json
 {
-  "extends": ["@bamdadsabbagh/eslint-config"]
+    "extends": "@bamdadsabbagh/eslint-config"
 }
 ```
 
