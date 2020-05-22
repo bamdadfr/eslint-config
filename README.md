@@ -6,19 +6,19 @@
 
 ## npm
 
-> [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint) package.
+> [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint-config) package.
 
 ## Installation
 
 ```shell
-yarn add --dev @bamdadsabbagh/eslint
+yarn add --dev @bamdadsabbagh/eslint-config
 ```
 
 ## Usage
 
 ```json
 {
-  "extends": ["@bamdadsabbagh/eslint"]
+  "extends": ["@bamdadsabbagh/eslint-config"]
 }
 ```
 
