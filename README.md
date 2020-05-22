@@ -1,4 +1,4 @@
-# eslint-config-bamdadsabbagh
+# Bamdad Sabbagh's ESLint config
 
 ## Vendor
 
@@ -6,20 +6,22 @@
 
 ## npm
 
-> [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint-config) package.
+> [npm](https://www.npmjs.com/package/@bamdadsabbagh/eslint) package.
 
 ## Installation
 
 ```shell
-yarn add --dev @bamdadsabbagh/eslint-config
+yarn add --dev @bamdadsabbagh/eslint
 ```
 
 ## Usage
 
 ```json
 {
-  "extends": ["@bamdadsabbagh/eslint-config"]
+  "extends": ["@bamdadsabbagh/eslint"]
 }
 ```
 
-It will automatically handle `*.(js|jsx|tsx)` files.
+It will automatically handle `*.(js|jsx|ts|tsx)` files.
+
+It will be useful for `Node` apps (like express) as well as `React` apps.

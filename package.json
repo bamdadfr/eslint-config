@@ -1,49 +1,35 @@
 {
-  "author": "Bamdad Sabbagh",
-  "license": "Apache-2.0",
+  "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
+  "license": "MIT",
   "name": "@bamdadsabbagh/eslint-config",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "description": "Bamdad Sabbagh's ESLint config",
   "keywords": [
     "bamdadsabbagh",
     "eslint",
-    "jsx",
     "react",
-    "typescript"
+    "node"
   ],
-  "repository": "github:bamdadsabbagh/eslint-config-bamdadsabbagh",
+  "repository": "github:bamdadsabbagh/eslint-config",
   "files": [
-    "config-js.js",
-    "config-jsx.js",
-    "config-tsx.js",
+    "config.js",
     "index.js"
   ],
   "dependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
     "@typescript-eslint/eslint-plugin": "^2.18.0",
     "@typescript-eslint/parser": "^2.18.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-airbnb-base": "^14.1.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^2.5.0",
-    "prettier": "^2.0.5"
-  },
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.18.0",
-    "@typescript-eslint/parser": "^2.18.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^2.5.0",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.3"
   }
 }

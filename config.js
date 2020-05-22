@@ -29,12 +29,14 @@ module.exports = {
         }
     },
     "rules": {
-        // .tsx rules
-        "react/jsx-filename-extension": [1, { "extensions": [".jsx", ".tsx"] }],
+        // .ts & .tsx rules
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "import/extensions": "off",
         "@typescript-eslint/indent": ["error"],
         "@typescript-eslint/type-annotation-spacing": ["error", { "before": false, "after": true }],
         "@typescript-eslint/no-unused-vars": "error",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/init-declarations": ["warn"],
         // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
@@ -49,7 +51,7 @@ module.exports = {
             4,
             {"ignoredNodes": ["JSXElement"]}
         ],
-        "init-declarations": "error",
+        "init-declarations": "warn",
         "no-undef-init": "off",
         "comma-dangle": [
             "error", 
@@ -134,6 +136,17 @@ module.exports = {
         "operator-assignment": "off",
         "no-underscore-dangle": "off",
         "consistent-return": "off",
-        "no-await-in-loop": "off"
-    }
+        "no-await-in-loop": "off",
+        "jsx-a11y/click-events-have-key-events": "warn",
+        "jsx-a11y/no-static-element-interactions": "warn",
+    },
+    "overrides": [
+        {
+            // enable the rule specifically for TypeScript files
+            "files": ["*.ts", "*.tsx"],
+            "rules": {
+                "@typescript-eslint/explicit-function-return-type": ["warn"]
+            }
+        }
+    ]
 }
