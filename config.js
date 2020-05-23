@@ -49,7 +49,10 @@ module.exports = {
         "indent": [
             "error",
             4,
-            {"ignoredNodes": ["JSXElement"]}
+            {
+                "ignoredNodes": ["JSXElement"],
+                "SwitchCase": 1
+            }
         ],
         "init-declarations": "warn",
         "no-undef-init": "off",
