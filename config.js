@@ -147,6 +147,10 @@ module.exports = {
             "error",
             { "beforeColon": false, "afterColon": true }
         ],
+        "comma-spacing": [
+            "warn",
+            { "before": false, "after": true }
+        ],
     },
     "overrides": [
         {
