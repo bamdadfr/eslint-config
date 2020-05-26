@@ -143,6 +143,10 @@ module.exports = {
         "jsx-a11y/click-events-have-key-events": "warn",
         "jsx-a11y/no-static-element-interactions": "warn",
         "arrow-spacing": [ "warn", { "before": true, "after": true } ],
+        "key-spacing": [
+            "error",
+            { "beforeColon": false, "afterColon": true }
+        ],
     },
     "overrides": [
         {
