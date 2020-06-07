@@ -56,16 +56,7 @@ module.exports = {
         ],
         "init-declarations": "warn",
         "no-undef-init": "off",
-        "comma-dangle": [
-            "error", 
-            {
-                "arrays": "always-multiline",
-                "objects": "always-multiline",
-                "imports": "always-multiline",
-                "exports": "always-multiline",
-                "functions": "never"
-            }
-        ],
+        "comma-dangle": [ "error", "always-multiline" ],
         "brace-style": ["error", "1tbs"],
         "multiline-comment-style": ["error", "separate-lines"],
         "dot-notation": "off",
