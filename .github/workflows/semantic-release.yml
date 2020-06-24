@@ -21,7 +21,7 @@ jobs:
           node-version: '12'
 
       - name: installing semantic-release
-        run: npm install -g semantic-release @semantic-release/github
+        run: npm install -g semantic-release @semantic-release/github @semantic-release/git
 
       - name: running semantic-release
         run: semantic-release
