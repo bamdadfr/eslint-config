@@ -30,8 +30,8 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4",
     "prettier": "^2.0.5",
-    "typescript": "^3.9.3",
-    "snyk": "^1.349.0"
+    "snyk": "^1.349.0",
+    "typescript": "^3.9.3"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
