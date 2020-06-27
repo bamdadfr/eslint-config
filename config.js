@@ -34,7 +34,7 @@ module.exports = {
         "import/extensions": "off",
         "@typescript-eslint/indent": ["error"],
         "@typescript-eslint/type-annotation-spacing": ["error", { "before": false, "after": true }],
-        "@typescript-eslint/no-unused-vars": "error",
+        "@typescript-eslint/no-unused-vars": "warning",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/init-declarations": ["warn"],
         // .jsx rules
@@ -77,7 +77,7 @@ module.exports = {
         "no-nested-ternary": "error",
         "eqeqeq": "error",
         "quotes": ["error", "single", { "avoidEscape": true }],
-        "no-unused-vars": ["error", { "argsIgnorePattern": "^(symbol|price|tag|since|limit|params|market|timeframe|api|path|code|currency|response|requestHeaders|requestBody|bidsKey|asksKey)" }],
+        "no-unused-vars": ["warning", { "argsIgnorePattern": "^(symbol|price|tag|since|limit|params|market|timeframe|api|path|code|currency|response|requestHeaders|requestBody|bidsKey|asksKey)" }],
         "new-parens": "error",
         "new-cap": ["error"],
         "no-var": "error",
