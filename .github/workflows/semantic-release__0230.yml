@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: '12'
 
-      - run: npm install -g snyk
+      - run: yarn
       
       - run: npm install -g semantic-release @semantic-release/github @semantic-release/git
 
