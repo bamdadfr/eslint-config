@@ -30,7 +30,7 @@
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.5",
     "prettier": "^2.0.5",
-    "snyk": "^1.355.0",
+    "snyk": "^1.356.0",
     "typescript": "^3.9.3"
   },
   "scripts": {
