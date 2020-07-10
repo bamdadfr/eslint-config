@@ -143,7 +143,8 @@ module.exports = {
             "warn",
             { "before": false, "after": true }
         ],
-        "import/no-extraneous-dependencies": ["error", {"devDependencies": true}]
+        "import/no-extraneous-dependencies": ["error", {"devDependencies": true}],
+        "import/prefer-default-export": "off"
     },
     "overrides": [
         {
