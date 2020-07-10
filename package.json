@@ -37,5 +37,8 @@
     "snyk-protect": "snyk protect",
     "prepare": "yarn run snyk-protect"
   },
-  "snyk": true
+  "snyk": true,
+  "devDependencies": {
+    "eslint-plugin-jest": "^23.18.0"
+  }
 }
