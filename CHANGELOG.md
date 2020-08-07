@@ -1,3 +1,11 @@
+## [1.3.25](https://github.com/bamdadsabbagh/eslint-config/compare/v1.3.24...v1.3.25) (2020-08-07)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release__push ([1f9f150](https://github.com/bamdadsabbagh/eslint-config/commit/1f9f150ee274b8dea1f739860741f7cf8df67e79))
+* better workflow name [force-release] ([6e5e01b](https://github.com/bamdadsabbagh/eslint-config/commit/6e5e01bf7e4d71f298609d8327b790351176ebf7))
+
 ## [1.3.24](https://github.com/bamdadsabbagh/eslint-config/compare/v1.3.23...v1.3.24) (2020-08-06)
 
 
