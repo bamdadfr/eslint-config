@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.4.0...v1.4.1) (2020-10-28)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release__push ([c62845c](https://github.com/bamdadsabbagh/eslint-config/commit/c62845c59070a5cd5064aa27e60727da6e63c52c))
+* downgrade typescript 4 linters [force-release] ([5639b02](https://github.com/bamdadsabbagh/eslint-config/commit/5639b021562b1dd98bf2edbabb2efe56979d2f57))
+
 # [1.4.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.3.82...v1.4.0) (2020-10-28)
 
 
