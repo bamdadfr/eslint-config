@@ -38,6 +38,16 @@ module.exports = {
         "@typescript-eslint/no-unused-vars": "warn",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/init-declarations": ["warn"],
+        "@typescript-eslint/member-delimiter-style": ["error", {
+            "multiline": {
+                "delimiter": "semi",
+                "requireLast": true,
+            },
+            "singleline": {
+                "delimiter": "semi",
+                "requireLast": true,
+            }
+        }],
         // .jsx rules
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
