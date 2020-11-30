@@ -1,13 +1,25 @@
-# Bamdad Sabbagh's ESLint config
+#
 
-![npm](https://img.shields.io/npm/v/@bamdadsabbagh/eslint-config)
-![npm](https://img.shields.io/npm/dm/@bamdadsabbagh/eslint-config)
+<p align=center>
+    Bamdad Sabbagh's ESLint config
+</p>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/b7ef43ae1528cd4d75e2/maintainability)](https://codeclimate.com/github/bamdadsabbagh/eslint-config/maintainability)
+<p align=center>
+    <img src="https://img.shields.io/github/v/release/bamdadsabbagh/eslint-config">
+    <img src="https://api.codeclimate.com/v1/badges/b7ef43ae1528cd4d75e2/maintainability">
+</p>
 
-![David](https://img.shields.io/david/bamdadsabbagh/eslint-config)
-![David](https://img.shields.io/david/dev/bamdadsabbagh/eslint-config)
-[![Known Vulnerabilities](https://snyk.io/test/github/bamdadsabbagh/eslint-config/badge.svg?targetFile=package.json)](https://snyk.io/test/github/bamdadsabbagh/eslint-config?targetFile=package.json)
+<p align=center>
+    <img src="https://img.shields.io/david/bamdadsabbagh/eslint-config">
+    <img src="https://img.shields.io/david/dev/bamdadsabbagh/eslint-config">
+    <img src="https://img.shields.io/snyk/vulnerabilities/github/bamdadsabbagh/eslint-config">
+</p>
+
+<p align=center>
+    <img src="https://img.shields.io/npm/v/@bamdadsabbagh/eslint-config">
+    <img src="https://img.shields.io/npm/dw/@bamdadsabbagh/eslint-config">
+    <img src="https://img.shields.io/npm/dm/@bamdadsabbagh/eslint-config">
+</p>
 
 ## Vendor
 
