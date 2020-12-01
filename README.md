@@ -1,4 +1,4 @@
-#
+# <img width=25 src="https://i.imgur.com/KFzo0R4.png"> ESLint Config
 
 <p align=center>
   <a href="https://www.npmjs.com/package/@bamdadsabbagh/eslint-config"><img width=150 src="https://i.imgur.com/KFzo0R4.png"></a>
@@ -9,13 +9,17 @@
 </p>
 
 <p align=center>
+  <img src="https://img.shields.io/badge/role-lead-blueviolet">
+</p>
+
+<p align=center>
   <a href="https://github.com/bamdadsabbagh/eslint-config"><img src="https://img.shields.io/github/stars/bamdadsabbagh/eslint-config?label=git"></a>
   <img src="https://img.shields.io/github/license/bamdadsabbagh/eslint-config">
 </p>
 
 <p align=center>
   <img src="https://img.shields.io/github/languages/count/bamdadsabbagh/eslint-config">
-  <img  src="https://img.shields.io/github/languages/top/bamdadsabbagh/eslint-config">
+  <img src="https://img.shields.io/github/languages/top/bamdadsabbagh/eslint-config">
 </p>
 
 <p align=center>
@@ -33,6 +37,11 @@
   <img src="https://img.shields.io/npm/v/@bamdadsabbagh/eslint-config">
   <img src="https://img.shields.io/npm/dw/@bamdadsabbagh/eslint-config">
   <img src="https://img.shields.io/npm/dm/@bamdadsabbagh/eslint-config">
+</p>
+
+<p align=center>
+  <img src="https://img.shields.io/badge/ci-github--actions-yellowgreen">
+  <img src="https://img.shields.io/badge/cd-docker-yellowgreen">
 </p>
 
 ## Vendor
