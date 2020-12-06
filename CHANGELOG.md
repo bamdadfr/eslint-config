@@ -1,3 +1,12 @@
+## [1.4.30](https://github.com/bamdadsabbagh/eslint-config/compare/v1.4.29...v1.4.30) (2020-12-06)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0x100 ([1e2ba8f](https://github.com/bamdadsabbagh/eslint-config/commit/1e2ba8fe8f90397b10994231b037f1939efb2f4f))
+* asfalte: ⚙️ yarn-upgrade__0x100 ([bce09bc](https://github.com/bamdadsabbagh/eslint-config/commit/bce09bce7ef06d4b01d075693ca60da44da66c0e))
+* asfalte: ⚙️ yarn-upgrade__0x100 ([02c5a56](https://github.com/bamdadsabbagh/eslint-config/commit/02c5a561ccd2de51816d3e30dd9340d00f40f4f6))
+
 ## [1.4.29](https://github.com/bamdadsabbagh/eslint-config/compare/v1.4.28...v1.4.29) (2020-12-05)
 
 
