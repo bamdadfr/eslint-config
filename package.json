@@ -2,7 +2,7 @@
   "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
   "license": "MIT",
   "name": "@bamdadsabbagh/eslint-config",
-  "version": "1.4.34",
+  "version": "1.4.35",
   "description": "Bamdad Sabbagh's ESLint config",
   "keywords": [
     "bamdadsabbagh",
