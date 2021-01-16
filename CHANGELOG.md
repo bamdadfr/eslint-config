@@ -1,3 +1,16 @@
+# [1.5.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.4.57...v1.5.0) (2021-01-16)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([0fb4ba6](https://github.com/bamdadsabbagh/eslint-config/commit/0fb4ba67a2d8a62f39ec5d2e93e1f513946406ef))
+* updated workflows ([3a45ead](https://github.com/bamdadsabbagh/eslint-config/commit/3a45ead84a04246d7ba3c47ec7588074a06c394b))
+
+
+### Features
+
+* upgrade to react 17 ([a6d60ea](https://github.com/bamdadsabbagh/eslint-config/commit/a6d60eae83e4f9688a70728f5dec95ee36fe13eb))
+
 ## [1.4.57](https://github.com/bamdadsabbagh/eslint-config/compare/v1.4.56...v1.4.57) (2021-01-16)
 
 
