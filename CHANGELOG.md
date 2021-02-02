@@ -1,3 +1,12 @@
+## [1.5.9](https://github.com/bamdadsabbagh/eslint-config/compare/v1.5.8...v1.5.9) (2021-02-02)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x100 ([0d27a0f](https://github.com/bamdadsabbagh/eslint-config/commit/0d27a0f7b9051755612bc1fbc6accd23e573ba3b))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([7938eb7](https://github.com/bamdadsabbagh/eslint-config/commit/7938eb7241b02b01534d82be54e13f5f5fd49b43))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([e86baeb](https://github.com/bamdadsabbagh/eslint-config/commit/e86baebfbefd1e4da3e5924edc03a7f0d50a5a1d))
+
 ## [1.5.8](https://github.com/bamdadsabbagh/eslint-config/compare/v1.5.7...v1.5.8) (2021-02-01)
 
 
