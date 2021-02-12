@@ -26,6 +26,18 @@ module.exports = {
         "import/resolver": {
             "node": {
                 "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            },
+            // for my next.js apps
+            "alias": {
+                "map": [
+                    [
+                        "@",
+                        "./src/"
+                    ]
+                ],
+                "extensions": [
+                    ".js"
+                ]
             }
         }
     },
