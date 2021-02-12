@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.5.17...v1.6.0) (2021-02-12)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x100 ([c697ebe](https://github.com/bamdadsabbagh/eslint-config/commit/c697ebe17d66c0c39535ca4c6c9b755a47fe4b97))
+* asfalte: 🔨 git-commit-force-release--onPush ([ca578cd](https://github.com/bamdadsabbagh/eslint-config/commit/ca578cd032c05858610c078707841cc6b469817c))
+* asfalte: 🔨 git-commit-force-release--onPush ([2383ef6](https://github.com/bamdadsabbagh/eslint-config/commit/2383ef65c1d1273c47ae498891e791ab735735b7))
+
+
+### Features
+
+* added `eslint-import-resolver-alias` with nextjs settings ([2e19194](https://github.com/bamdadsabbagh/eslint-config/commit/2e1919489db977ef7557954a21a682d266be380d))
+
 ## [1.5.17](https://github.com/bamdadsabbagh/eslint-config/compare/v1.5.16...v1.5.17) (2021-02-12)
 
 
