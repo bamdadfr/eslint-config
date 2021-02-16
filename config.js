@@ -19,8 +19,7 @@ module.exports = {
     ],
     "plugins": [
         "jsx-a11y",
-        "prettier",
-        "@typescript-eslint"
+        "prettier"
     ],
     "settings": {
         "import/resolver": {
@@ -42,25 +41,9 @@ module.exports = {
         }
     },
     "rules": {
-        // .ts & .tsx rules
-        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
-        "import/extensions": "off",
-        "@typescript-eslint/indent": ["error"],
-        "@typescript-eslint/type-annotation-spacing": ["error", { "before": false, "after": true }],
-        "@typescript-eslint/no-unused-vars": "warn",
-        "@typescript-eslint/explicit-function-return-type": "off",
-        "@typescript-eslint/init-declarations": ["warn"],
-        "@typescript-eslint/member-delimiter-style": ["error", {
-            "multiline": {
-                "delimiter": "semi",
-                "requireLast": true,
-            },
-            "singleline": {
-                "delimiter": "semi",
-                "requireLast": true,
-            }
-        }],
         // .jsx rules
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "import/extensions": "off",
         "react/jsx-indent": ["error", 4],
         "react/prop-types": "off",
         // .js rules
@@ -167,14 +150,5 @@ module.exports = {
         ],
         "import/no-extraneous-dependencies": ["error", {"devDependencies": true}],
         "import/prefer-default-export": "off"
-    },
-    "overrides": [
-        {
-            // enable the rule specifically for TypeScript files
-            "files": ["*.ts", "*.tsx"],
-            "rules": {
-                "@typescript-eslint/explicit-function-return-type": ["warn"]
-            }
-        }
-    ]
+    }
 }

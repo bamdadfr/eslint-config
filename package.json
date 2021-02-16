@@ -16,11 +16,6 @@
     "index.js"
   ],
   "dependencies": {
-    "@types/node": "^14.0.27",
-    "@types/react": "^17.0.2",
-    "@types/react-dom": "^17.0.1",
-    "@typescript-eslint/eslint-plugin": "4.15.0",
-    "@typescript-eslint/parser": "4.15.0",
     "eslint": "^7.20.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^7.1.0",
@@ -31,7 +26,6 @@
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.0.8",
-    "prettier": "^2.0.5",
-    "typescript": "^4.0.5"
+    "prettier": "^2.0.5"
   }
 }
