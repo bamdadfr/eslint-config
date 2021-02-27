@@ -1,3 +1,11 @@
+## [1.8.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.8.1...v1.8.2) (2021-02-27)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([6476d8f](https://github.com/bamdadsabbagh/eslint-config/commit/6476d8f3a8986817704ab873683cb9af27d26647))
+* removed typescript parser ([bbd5cb7](https://github.com/bamdadsabbagh/eslint-config/commit/bbd5cb7d8502ff2b48c82e0b7c61f56089391d58))
+
 ## [1.8.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.8.0...v1.8.1) (2021-02-22)
 
 
