@@ -6,7 +6,6 @@ module.exports = {
         "node": true,
         "jest": true
     },
-    "parser": "@typescript-eslint/parser",
     "parserOptions": {
       "sourceType": "module"
     },
