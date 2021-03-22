@@ -1,3 +1,11 @@
+## [1.9.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.0...v1.9.1) (2021-03-22)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([340a888](https://github.com/bamdadsabbagh/eslint-config/commit/340a88860843b9b189e362a42ce1f9a691a8f4d4))
+* **deps:** moved babel-eslint parser to deps from dev-deps ([75b0e9c](https://github.com/bamdadsabbagh/eslint-config/commit/75b0e9cd23a55f84048c727837f5e2f22a7754a1))
+
 # [1.9.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.8.6...v1.9.0) (2021-03-22)
 
 
