@@ -1,3 +1,16 @@
+# [1.10.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.12...v1.10.0) (2021-06-10)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([cd33a0f](https://github.com/bamdadsabbagh/eslint-config/commit/cd33a0f964f09b34f00de413983ecbdd177b5428))
+* **extensions:** added `.ts` and `.tsx` ([f0d25c8](https://github.com/bamdadsabbagh/eslint-config/commit/f0d25c80de2dea42e8d9de9d46607185fef81e28))
+
+
+### Features
+
+* **deps:** upgraded to latest ([f154e88](https://github.com/bamdadsabbagh/eslint-config/commit/f154e88dda6da13859e1da781e3f525c7bfde3f5))
+
 ## [1.9.12](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.11...v1.9.12) (2021-06-07)
 
 
