@@ -1,3 +1,73 @@
+## [1.9.12](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.11...v1.9.12) (2021-06-07)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([2832c81](https://github.com/bamdadsabbagh/eslint-config/commit/2832c81163d5ca7d8ce37c4c7d1a587c01d45583))
+
+## [1.9.11](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.10...v1.9.11) (2021-05-31)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([8bc480e](https://github.com/bamdadsabbagh/eslint-config/commit/8bc480e4a054c67f1dfb5656914d854bc37a867c))
+
+## [1.9.10](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.9...v1.9.10) (2021-05-24)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([7f96f6b](https://github.com/bamdadsabbagh/eslint-config/commit/7f96f6bcab0dfab80ba2acb87d6a8be104dc3eb5))
+
+## [1.9.9](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.8...v1.9.9) (2021-05-17)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([b5f0951](https://github.com/bamdadsabbagh/eslint-config/commit/b5f09511e75105618eb89ce6eb3819c7046097ae))
+
+## [1.9.8](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.7...v1.9.8) (2021-05-10)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([e52de49](https://github.com/bamdadsabbagh/eslint-config/commit/e52de491713624df22058957d07b044b0473f62e))
+
+## [1.9.7](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.6...v1.9.7) (2021-05-03)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([3b63fb5](https://github.com/bamdadsabbagh/eslint-config/commit/3b63fb5e87dcdaca21cf68d348aa051d030070bb))
+
+## [1.9.6](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.5...v1.9.6) (2021-04-26)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([d9796e6](https://github.com/bamdadsabbagh/eslint-config/commit/d9796e6d6a038599795baa556f10a241cb531010))
+
+## [1.9.5](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.4...v1.9.5) (2021-04-19)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([987be6d](https://github.com/bamdadsabbagh/eslint-config/commit/987be6d4ebfdcd3b1eaf52ea700e0e19cb1d638b))
+
+## [1.9.4](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.3...v1.9.4) (2021-04-12)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([86b24ef](https://github.com/bamdadsabbagh/eslint-config/commit/86b24efd9d49172d6b2c2f1faaf3a08a15428127))
+
+## [1.9.3](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.2...v1.9.3) (2021-04-05)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([0759d0f](https://github.com/bamdadsabbagh/eslint-config/commit/0759d0f2133f48bf72df9000bf1a24d5ad68023b))
+
 ## [1.9.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.1...v1.9.2) (2021-03-29)
 
 
