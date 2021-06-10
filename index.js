@@ -4,7 +4,7 @@ module.exports = {
   'overrides': [
     {
       'extends': ['./config.js'],
-      'files': ['*.js', '*.jsx']
+      'files': ['*.js', '*.jsx', '*.ts', '*.tsx']
     }
   ]
 };
