@@ -14,8 +14,7 @@ module.exports = {
         "eslint:recommended",
         "airbnb",
         "plugin:jsx-a11y/recommended",
-        "prettier",
-        "prettier/react"
+        "prettier"
     ],
     "plugins": [
         "jsx-a11y",
