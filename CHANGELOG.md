@@ -1,3 +1,11 @@
+## [1.10.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.10.0...v1.10.1) (2021-06-11)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([8425bb2](https://github.com/bamdadsabbagh/eslint-config/commit/8425bb281b99b06a3a8cf4acd6a12ab4c56645be))
+* **config:** removed `prettier/react` as it's now part of the main `prettier` package ([7c5ac5c](https://github.com/bamdadsabbagh/eslint-config/commit/7c5ac5c777d745f54621cb404a13f0d909b69845))
+
 # [1.10.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.9.12...v1.10.0) (2021-06-10)
 
 
