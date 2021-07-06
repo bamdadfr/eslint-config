@@ -1,3 +1,15 @@
+# [1.11.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.10.4...v1.11.0) (2021-07-06)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([9014b5a](https://github.com/bamdadsabbagh/eslint-config/commit/9014b5a2e9a926408a891c75b1c611e37a50704d))
+
+
+### Features
+
+* **app:** added `eslint-plugin-jsdoc` ([d705c77](https://github.com/bamdadsabbagh/eslint-config/commit/d705c77d660ed76455ddd3b6d5fbb6a1d6e86360))
+
 ## [1.10.4](https://github.com/bamdadsabbagh/eslint-config/compare/v1.10.3...v1.10.4) (2021-07-05)
 
 
