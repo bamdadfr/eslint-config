@@ -14,11 +14,13 @@ module.exports = {
         "eslint:recommended",
         "airbnb",
         "plugin:jsx-a11y/recommended",
-        "prettier"
+        "prettier",
+        "plugin:jsdoc/recommended"
     ],
     "plugins": [
         "jsx-a11y",
-        "prettier"
+        "prettier",
+        "jsdoc"
     ],
     "settings": {
         "import/resolver": {
