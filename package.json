@@ -16,7 +16,9 @@
     "index.js"
   ],
   "dependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/core": "^7.14.6",
+    "@babel/eslint-parser": "^7.14.7",
+    "@babel/eslint-plugin": "^7.14.5",
     "eslint": "^7.28.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^8.3.0",
