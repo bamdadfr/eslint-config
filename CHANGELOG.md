@@ -1,3 +1,15 @@
+# [1.12.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.11.0...v1.12.0) (2021-07-07)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([5ed9af8](https://github.com/bamdadsabbagh/eslint-config/commit/5ed9af88cbdf5a38e8b5fbf2140703a3f334f678))
+
+
+### Features
+
+* **lint:** using latest `@babel/eslint-parser` ([9a2a816](https://github.com/bamdadsabbagh/eslint-config/commit/9a2a8164a7df5caada0fedeada2663733a7248c9))
+
 # [1.11.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.10.4...v1.11.0) (2021-07-06)
 
 
