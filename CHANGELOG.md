@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.13.0...v1.13.1) (2021-07-19)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0700 ([8c5297a](https://github.com/bamdadsabbagh/eslint-config/commit/8c5297a659f93000a656e878231e07dbbfe20f24))
+
 # [1.13.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.12.1...v1.13.0) (2021-07-12)
 
 
