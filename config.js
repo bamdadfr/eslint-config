@@ -23,6 +23,7 @@ module.exports = {
         'jsx-a11y',
         'prettier',
         'jsdoc',
+        'react-hooks',
     ],
     'settings': {
         'import/resolver': {
@@ -49,6 +50,8 @@ module.exports = {
         'import/extensions': 'off',
         'react/jsx-indent': ['error', 4],
         'react/prop-types': 'off',
+        'react-hooks/rules-of-hooks': ['error'],
+        'react-hooks/exhaustive-deps': ['warn'],
         // .js rules
         'strict': 'off',
         'semi': [
