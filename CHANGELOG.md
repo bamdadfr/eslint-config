@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.13.2...v1.14.0) (2021-07-28)
+
+
+### Features
+
+* add `react-hooks` plugin and rules + rename release.config.js + update README.md + update CI workflows ([8c35add](https://github.com/bamdadsabbagh/eslint-config/commit/8c35add9e66c0ef4bd62aa7438eab1abb3d1b8fa))
+
 ## [1.13.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.13.1...v1.13.2) (2021-07-26)
 
 
