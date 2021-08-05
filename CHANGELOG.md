@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.0...v1.15.1) (2021-08-05)
+
+
+### Bug Fixes
+
+* dev-deps will not work ([14c541c](https://github.com/bamdadsabbagh/eslint-config/commit/14c541c55827ae9f9e94241421a8174e77328229))
+
 # [1.15.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.14.1...v1.15.0) (2021-08-05)
 
 
