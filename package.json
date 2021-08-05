@@ -12,8 +12,9 @@
   "license": "MIT",
   "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
   "files": [
+    "index.js",
     "config.js",
-    "index.js"
+    "config-typescript.js"
   ],
   "scripts": {
     "lint": "eslint . --ext .js --fix",
