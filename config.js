@@ -24,29 +24,19 @@ module.exports = {
         'prettier',
         'jsdoc',
         'react-hooks',
+        'testing-library',
+        'jest-dom',
     ],
     'settings': {
         'import/resolver': {
             'node': {
                 'extensions': ['.js', '.jsx', '.ts', '.tsx'],
             },
-            // for my next.js apps
-            'alias': {
-                'map': [
-                    [
-                        '@',
-                        './src/',
-                    ],
-                ],
-                'extensions': [
-                    '.js',
-                ],
-            },
         },
     },
     'rules': {
         // .jsx rules
-        'react/jsx-filename-extension': [1, { 'extensions': ['.js', '.jsx'] }],
+        'react/jsx-filename-extension': [1, { 'extensions': ['.js', '.jsx', '.ts', '.tsx'] }],
         'import/extensions': 'off',
         'react/jsx-indent': ['error', 4],
         'react/prop-types': 'off',

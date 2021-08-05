@@ -3,8 +3,23 @@
 module.exports = {
     'overrides': [
         {
-            'extends': ['./config.js'],
-            'files': ['*.js', '*.jsx', '*.ts', '*.tsx'],
+            'extends': [
+                './config.js',
+            ],
+            'files': [
+                '*.js',
+                '*.jsx',
+            ],
+        },
+        {
+            'extends': [
+                './config.js',
+                './config-typescript.js',
+            ],
+            'files': [
+                '*.ts',
+                '*.tsx',
+            ],
         },
     ],
 }
