@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.14.1...v1.15.0) (2021-08-05)
+
+
+### Features
+
+* add typescript configuration extension ([cc86e0c](https://github.com/bamdadsabbagh/eslint-config/commit/cc86e0c5b8fdf627be93b9a34ee28a682def2bb7))
+
 ## [1.14.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.14.0...v1.14.1) (2021-08-02)
 
 
