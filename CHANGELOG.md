@@ -1,3 +1,10 @@
+## [1.15.4](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.3...v1.15.4) (2021-08-05)
+
+
+### Performance Improvements
+
+* **typescript:** disable jsdoc requirement ([136fc8a](https://github.com/bamdadsabbagh/eslint-config/commit/136fc8a981c9fcf9d848420633ec229bd7f6a664))
+
 ## [1.15.3](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.2...v1.15.3) (2021-08-05)
 
 
