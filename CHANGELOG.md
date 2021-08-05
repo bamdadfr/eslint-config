@@ -1,3 +1,10 @@
+## [1.15.3](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.2...v1.15.3) (2021-08-05)
+
+
+### Bug Fixes
+
+* add typescript as dependency ([572d96f](https://github.com/bamdadsabbagh/eslint-config/commit/572d96f0bd3e48eeeebfe2383f9e22164bd308f0))
+
 ## [1.15.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.1...v1.15.2) (2021-08-05)
 
 
