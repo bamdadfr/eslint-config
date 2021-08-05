@@ -1,3 +1,10 @@
+## [1.15.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.1...v1.15.2) (2021-08-05)
+
+
+### Bug Fixes
+
+* add config-typescript.js to package.json ([9b3894c](https://github.com/bamdadsabbagh/eslint-config/commit/9b3894c36edfd84fb8599212bcd13ce86eca0ac1))
+
 ## [1.15.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.0...v1.15.1) (2021-08-05)
 
 
