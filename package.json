@@ -21,7 +21,7 @@
     "package:reinstall": "yarn package:clean && yarn",
     "package:sort": "npx sort-package-json"
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.14.6",
     "@babel/eslint-parser": "^7.14.7",
     "@babel/eslint-plugin": "^7.14.5",
