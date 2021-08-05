@@ -1,3 +1,10 @@
+## [1.15.5](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.4...v1.15.5) (2021-08-05)
+
+
+### Performance Improvements
+
+* **deps:** update to latest ([4313770](https://github.com/bamdadsabbagh/eslint-config/commit/4313770a0acc0cca279e5f73c0cae352f0c7c90d))
+
 ## [1.15.4](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.3...v1.15.4) (2021-08-05)
 
 
