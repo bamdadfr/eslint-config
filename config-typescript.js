@@ -7,7 +7,6 @@ module.exports = {
     'parser': '@typescript-eslint/parser',
     'rules': {
         'jsdoc/require-jsdoc': 'off',
-        'no-use-before-define': 'off',
         '@typescript-eslint/type-annotation-spacing': ['error', {
             'before': false,
             'after': true,
