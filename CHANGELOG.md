@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.5...v1.16.0) (2021-08-06)
+
+
+### Features
+
+* **typescript:** remove `no-use-before-define` as it is too broad ([aa54e63](https://github.com/bamdadsabbagh/eslint-config/commit/aa54e63d68721d251379fc2431a5421bb2c9b83d))
+
 ## [1.15.5](https://github.com/bamdadsabbagh/eslint-config/compare/v1.15.4...v1.15.5) (2021-08-05)
 
 
