@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.16.13...v1.17.0) (2021-11-06)
+
+
+### Features
+
+* new style ([160f31a](https://github.com/bamdadsabbagh/eslint-config/commit/160f31afc15421ed51139befcc8ae8de82373cae))
+
 ## [1.16.13](https://github.com/bamdadsabbagh/eslint-config/compare/v1.16.12...v1.16.13) (2021-11-01)
 
 
