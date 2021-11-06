@@ -1,3 +1,10 @@
+## [1.17.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.17.0...v1.17.1) (2021-11-06)
+
+
+### Bug Fixes
+
+* add omitted important rules ([dd44efe](https://github.com/bamdadsabbagh/eslint-config/commit/dd44efe9dff0072ebef3471084ea8f55d9288edd))
+
 # [1.17.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.16.13...v1.17.0) (2021-11-06)
 
 
