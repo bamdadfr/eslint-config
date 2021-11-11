@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.17.2...v1.18.0) (2021-11-11)
+
+
+### Features
+
+* allow empty init declarations + fore semicolons for typescript definitions ([f41e867](https://github.com/bamdadsabbagh/eslint-config/commit/f41e867d1a4b7dc4c5a46ce4d704f198d82d25cb))
+
 ## [1.17.2](https://github.com/bamdadsabbagh/eslint-config/compare/v1.17.1...v1.17.2) (2021-11-08)
 
 
