@@ -52,7 +52,7 @@ module.exports = {
       'ignoredNodes': ['JSXElement'],
       'SwitchCase': 1,
     }],
-    'init-declarations': 'warn',
+    'init-declarations': 'off',
     'no-undef-init': 'off',
     'comma-dangle': ['error', 'always-multiline'],
     'brace-style': ['error', '1tbs'],

@@ -18,12 +18,12 @@ module.exports = {
     }],
     '@typescript-eslint/member-delimiter-style': ['error', {
       'multiline': {
-        'delimiter': 'none',
-        'requireLast': false,
+        'delimiter': 'semi',
+        'requireLast': true,
       },
       'singleline': {
-        'delimiter': 'comma',
-        'requireLast': false,
+        'delimiter': 'semi',
+        'requireLast': true,
       },
       'multilineDetection': 'brackets',
     }],
