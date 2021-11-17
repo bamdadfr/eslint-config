@@ -62,7 +62,11 @@ module.exports = {
     'no-multi-spaces': ['error', {'ignoreEOLComments': true}],
     'no-whitespace-before-property': 'error',
     'space-before-blocks': ['error', 'always'],
-    'space-before-function-paren': ['error', 'never'],
+    'space-before-function-paren': ['error', {
+      'anonymous': 'never',
+      'named': 'never',
+      'asyncArrow': 'always',
+    }],
     'no-spaced-func': 'off',
     'func-call-spacing': ['error', 'never'],
     'func-names': 'off',
