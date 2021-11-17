@@ -1,3 +1,5 @@
+# [2.0.0](https://github.com/bamdadsabbagh/eslint-config/compare/v1.18.1...v2.0.0) (2021-11-17)
+
 ## [1.18.1](https://github.com/bamdadsabbagh/eslint-config/compare/v1.18.0...v1.18.1) (2021-11-15)
 
 
