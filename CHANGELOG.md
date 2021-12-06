@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/bamdadsabbagh/eslint-config/compare/v2.0.3...v2.0.4) (2021-12-06)
+
+
+### Performance Improvements
+
+* ⚙  yarn-upgrade--onMondays-0700 ([df37545](https://github.com/bamdadsabbagh/eslint-config/commit/df375450678bc6942249055c011a8ec18ef08bc1))
+
 ## [2.0.3](https://github.com/bamdadsabbagh/eslint-config/compare/v2.0.2...v2.0.3) (2021-11-29)
 
 
