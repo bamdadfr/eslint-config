@@ -27,6 +27,6 @@ module.exports = {
       },
       'multilineDetection': 'brackets',
     }],
-    '@typescript-eslint/object-curly-spacing': ['error', 'always'],
+    '@typescript-eslint/object-curly-spacing': ['error', 'never'],
   },
 };
