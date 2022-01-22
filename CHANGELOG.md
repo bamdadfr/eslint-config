@@ -1,3 +1,10 @@
+## [2.0.11](https://github.com/bamdadsabbagh/eslint-config/compare/v2.0.10...v2.0.11) (2022-01-22)
+
+
+### Bug Fixes
+
+* **typescript:** force never `object-curly-spacing` ([445cee1](https://github.com/bamdadsabbagh/eslint-config/commit/445cee192e50d5d90ba0714aea8263e471b0606b))
+
 ## [2.0.10](https://github.com/bamdadsabbagh/eslint-config/compare/v2.0.9...v2.0.10) (2022-01-17)
 
 
